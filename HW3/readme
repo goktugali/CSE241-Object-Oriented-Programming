@@ -1,0 +1,8 @@
+# for create a executable drive program please enter following command:
+-> make drive
+
+#for create a executable main program which takes inputs from user, please enter following command:
+-> make
+
+#for create both of them at the same time, please enter following command:
+-> make both
