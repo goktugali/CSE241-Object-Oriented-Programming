@@ -1,0 +1,9 @@
+*********
+***
+*
+Goktug Ali Akin 
+161044018
+
+# For create executable for driver code, just enter "make" or "make all".
+# You can clear all .o files with "make clean" command.
+# You can clear all .svg files with "make cleansvg" command.
