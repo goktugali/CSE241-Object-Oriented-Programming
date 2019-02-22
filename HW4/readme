@@ -1,0 +1,6 @@
+1) For create executable for main(user interact) and driver : 
+	make ----> 161044018_main.exe & 161044018_driver.exe
+2) For create executable for just main(user interact) : 
+	make main ----> 161044018_main.exe
+3) For create executable for just driver(automatic tester code) : 
+	make driver ----> 161044018_driver.exe
